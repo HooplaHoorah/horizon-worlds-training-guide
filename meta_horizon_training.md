@@ -16,13 +16,13 @@ The **Welcome creators!** section lists the core tasks involved in building and
 * **Add and manipulate assets** – objects, sounds, colliders and gizmos – and import custom models when needed【889338007507527†screenshot】.
 * **Build interactivity** with entities and scripting; use code blocks and gizmos to create behaviours【889338007507527†screenshot】.
 * **Preview and playtest** the world on mobile or VR, adjust variables and debug scripts in real time【864316467338504†screenshot】.
-* **Publish** a public world that runs on mobile or mobile + VR (VR‑only worlds are not eligible for mobile contests) and ensure it complies with Meta’s Community Standards and performance guidelines【936468813332520†screenshot】.
+* **Publish** a public world that runs on mobile or mobile + VR (VR‑only worlds are not eligible for mobile contests) and ensure it complies with Meta’s Community Standards and performance guidelines【936468813332520†screenshot】.
 
 The welcome page also points to additional resources such as performance tools, safety & privacy guidelines, the Horizon Creator Program and the official community Discord【936468813332520†screenshot】.
 
 ### 2.2 Installing the desktop editor
 
-The desktop editor is a free Windows application used to build and publish worlds.  Prerequisites include a **Meta Horizons account**, **Windows 10 or later**, an **Intel i5‑4590 or better CPU** and **at least 8 GB of RAM**【702296320149761†screenshot】.  Developers must be **13 years or older** and agree to Meta’s supplemental terms and privacy policy【702296320149761†screenshot】.  Using a TypeScript‑capable IDE such as **Visual Studio Code** is optional but recommended【702296320149761†screenshot】.
+The desktop editor is a free Windows application used to build and publish worlds.  Prerequisites include a **Meta Horizons account**, **Windows 10 or later**, an **Intel i5‑4590 or better CPU** and **at least 8 GB of RAM**【702296320149761†screenshot】.  Developers must be **13 years or older** and agree to Meta’s supplemental terms and privacy policy【702296320149761†screenshot】.  Using a TypeScript‑capable IDE such as **Visual Studio Code** is optional but recommended【702296320149761†screenshot】.
 
 To install the editor:
 
@@ -75,6 +75,8 @@ Horizon includes a suite of Gen AI tools that assist with content generation:
 4. **Gen AI Texture Generation tool** – Produces textures for 3D objects and lets you assign them to meshes, save them to your asset library and generate textures from “wild” objects【161383628032269†screenshot】.
 
 These tools speed up content creation and help non‑experts produce scripts, audio and art assets.
+
+> **Note:** All of the Gen AI tools described above are integrated directly into the **Horizon Desktop Editor**.  You access them through the desktop editor’s interface rather than a standalone website, and they store generated outputs in your local project’s asset library.  There is currently no web‑only version of these tools, so you must be logged into the desktop editor to generate code, audio, metadata or textures【782422281166655†screenshot】.
 
 ## 4 Creating Your First World
 
