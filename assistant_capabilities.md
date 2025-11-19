@@ -25,4 +25,14 @@ This document summarizes the capabilities and limitations of the ChatGPT assista
 
 ---
 
-By understanding these roles and limitations, we can effectively collaborate to build a world that meets the competition criteria and is ready by the October 31 2025 deadline.
+By understanding these roles and limitations, we can effectively collaborate to build the worlds we need for the 2025 Meta Horizon contests and hit the December submission deadlines.
+
+## 2025 Contest Targets
+
+- **Meta Horizon Creator Competition – Mobile Innovation**  
+  Build a Horizon Worlds experience that is mobile-first, uses GenAI tools (NPCs, textures, audio, code), and targets special categories such as portrait mode, tap-to-move, social/cozy/winter themes, memorable NPCs, onboarding, and (if feasible) world broadcast integration.
+
+- **Meta Horizon Start Developer Competition 2025**  
+  Build a Quest app version of the same core concept with hand-tracking interactions and passthrough + AI features, targeting the Casual or Social Gaming track plus special awards such as Best Hand Interactions and Best Passthrough Camera Access + AI.
+
+This repository, together with the shared Dropbox folder for rules and assets, is our common workspace across ChatGPT, Grok, Gemini, and Horizon’s Creator Assistant.
