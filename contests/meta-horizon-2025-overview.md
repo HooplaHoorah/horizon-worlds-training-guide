@@ -53,7 +53,7 @@
   - <3-minute **Quest demo video**
   - Must run at **≥60 FPS** on Quest 3/3S
 
-*(For full, line-by-line rules, see the Dropbox doc “Meta Horizon Contests 2025 – Full Source Document”.)*
+*(For full, line-by-line rules, see [meta-horizon-2025-full-rules.md](meta-horizon-2025-full-rules.md).)*
 
 ---
 
@@ -93,8 +93,8 @@ We’re explicitly a **four-AI stack**:
 **Working agreement**
 
 1. **Single source of truth for rules & dates**
-   - Dropbox file `Meta Horizons 2025 rules from Grok.txt` is canonical for rules.  
-   - This markdown file is the short, Git-tracked mirror.
+   - The file [meta-horizon-2025-full-rules.md](meta-horizon-2025-full-rules.md) in this directory is canonical for rules.  
+   - This overview file is a short summary of the rules and strategy.
 
 2. **Where things live**
    - **GitHub repo** – training guides, design docs, scripts, code samples, build notes.
